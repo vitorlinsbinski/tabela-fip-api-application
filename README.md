@@ -6,9 +6,6 @@ This repository contains a Java project that consumes an API to obtain vehicle i
 
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
 
